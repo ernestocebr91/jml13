@@ -1,0 +1,3 @@
+En primer lugar debemos crear la carpeta en el hosting. Acto seguido, desde la terminal SSH del mismo
+iniciamos git, y establecemos conexión con el repositorio. Una vez que hemos realizado estos pasos, hacemos un pull desde github.
+Así obtenemos la restauración de dicho proyecto.
